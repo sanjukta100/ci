@@ -1,5 +1,5 @@
 class Helloworld{  
     public static void main(String args[]){  
-     System.out.println("new JENKIN project");  
+     System.out.println("new JENKIN1 project");  
     }  
 }  
